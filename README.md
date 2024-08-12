@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am skilled in IT with over 2 years of professional experience in website development.
+
+I am passionate about system architecture and aspire to contribute to the development and operation of such systems.
+
+I consider myself a kind, empathetic, creative and determined person. I am pragmatic and organized, yet flexible.
+
+- My Blog [ImmersedinCode.io.vn](https://immersedincode.io.vn/)! :bookmark_tabs:
+- My [Leetcode](https://leetcode.com/u/pxuanbach/) profile!
+
+![LeetCode Stats](https://leetcode.card.workers.dev/pxuanbach?theme=nord&font=source_code_pro&extension=null)
+
 <!--
 **pxuanbach/pxuanbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
