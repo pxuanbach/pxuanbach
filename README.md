@@ -10,11 +10,11 @@ I consider myself a kind, empathetic, creative and determined person. I am pragm
 - My [Leetcode](https://leetcode.com/u/pxuanbach/) profile!
 
 <div style="display: flex">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pxuanbach&show_icons=true&locale=en&layout=compact" alt="pxuanbach" height="165">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pxuanbach&show_icons=true&locale=en" alt="pxuanbach" height="165">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pxuanbach&show_icons=true&locale=en&layout=compact" alt="pxuanbach top langs" height="175">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pxuanbach&show_icons=true&locale=en" alt="pxuanbach stats" height="175">
 </div>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/pxuanbach?theme=nord&font=source_code_pro&extension=null)
+<img src="https://leetcode.card.workers.dev/pxuanbach?theme=nord&font=source_code_pro&extension=null" alt="pxuanbach leetcode stats" height="175">
 
 <!--
 **pxuanbach/pxuanbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
