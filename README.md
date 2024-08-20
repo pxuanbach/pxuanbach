@@ -9,6 +9,11 @@ I consider myself a kind, empathetic, creative and determined person. I am pragm
 - My Blog [ImmersedinCode.io.vn](https://immersedincode.io.vn/)! :bookmark_tabs:
 - My [Leetcode](https://leetcode.com/u/pxuanbach/) profile!
 
+<div style="display: flex">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=pxuanbach&show_icons=true&locale=en&layout=compact" alt="pxuanbach" height="200">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pxuanbach&show_icons=true&locale=en" alt="pxuanbach" height="200">
+</div>
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/pxuanbach?theme=nord&font=source_code_pro&extension=null)
 
 <!--
