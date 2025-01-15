@@ -14,7 +14,7 @@ I consider myself a kind, empathetic, creative and determined person. I am pragm
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pxuanbach&show_icons=true&locale=en" alt="pxuanbach stats" height="175">
 </div>
 
-<img src="https://leetcode.card.workers.dev/pxuanbach?theme=nord&font=source_code_pro&extension=null" alt="pxuanbach leetcode stats" height="175">
+[![pxuanbach's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=pxuanbach&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <!--
 **pxuanbach/pxuanbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
